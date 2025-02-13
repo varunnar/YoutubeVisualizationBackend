@@ -1,0 +1,18 @@
+{
+  "name": "youtube_viz_backend",
+  "version": "1.0.0",
+  "description": "backend of youtube visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "backend"
+  ],
+  "author": "Varun Narayanswamy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
